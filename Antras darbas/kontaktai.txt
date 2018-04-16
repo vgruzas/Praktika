@@ -1,0 +1,7 @@
+id, pharse, city
+5600, hello, Vilnius
+4000, goodbye, Kaunas
+5600, hello, Vilnius
+5600, hello, Vilnius
+5600, hello, Vilnius
+5600, hello, Vilnius
